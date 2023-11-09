@@ -5,7 +5,7 @@
   }
   html,
   body {
-    background: black;
+    background: rgb(33, 32, 32);
     overscroll-behavior-x: none;
     overscroll-behavior-y: none;
     overflow: hidden;
